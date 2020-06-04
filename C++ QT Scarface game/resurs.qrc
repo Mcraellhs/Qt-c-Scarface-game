@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>bakrnd.mp3</file>
+        <file>bullet.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>bullet.png</file>
+        <file>enemy.jpg</file>
+        <file>tonymontana.png</file>
+        <file>tonymontana2.jpg</file>
+        <file>backgroundscface.jpg</file>
+        <file>police.jpg</file>
+    </qresource>
+</RCC>
